@@ -1,1 +1,1 @@
-This file was authored by Sindre Sorhus <sindresorhus@github.com>
+This file was authored by Sindre Sorhus <vue@github.com>
