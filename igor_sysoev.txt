@@ -1,1 +1,1 @@
-This file was authored by Igor Sysoev <igor@github.com>
+This file was authored by Igor Sysoev <jodonnell@github.com>
