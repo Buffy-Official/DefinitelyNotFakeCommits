@@ -1,1 +1,1 @@
-This file was authored by Michael L. Scott <mlscott@github.com>
+This file was authored by Michael L. Scott <brendaneich@github.com>
