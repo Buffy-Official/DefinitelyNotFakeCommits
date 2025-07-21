@@ -1,1 +1,1 @@
-This file was authored by Tom Preston-Werner <mojombo@github.com>
+This file was authored by Tom Preston-Werner <erica@github.com>
