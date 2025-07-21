@@ -1,0 +1,1 @@
+This file was authored by Tom Preston-Werner <mojombo@github.com>
