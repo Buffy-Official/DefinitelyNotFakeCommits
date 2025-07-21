@@ -1,1 +1,1 @@
-This file was authored by Brett Wooldridge <brett@github.com>
+This file was authored by Brett Wooldridge <film_girl@github.com>
