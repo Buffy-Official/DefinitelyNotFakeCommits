@@ -1,1 +1,1 @@
-This file was authored by Matt Colyer <mcolyer@github.com>
+This file was authored by Matt Colyer <brett@github.com>
