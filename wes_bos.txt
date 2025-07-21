@@ -1,1 +1,1 @@
-This file was authored by Wes Bos <wesbos@github.com>
+This file was authored by Wes Bos <feross@github.com>
