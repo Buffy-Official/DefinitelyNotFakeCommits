@@ -1,1 +1,1 @@
-This file was authored by vladfrangu <vlad@github.com>
+This file was authored by vladfrangu <mojombo@github.com>
