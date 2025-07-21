@@ -1,1 +1,1 @@
-This file was authored by Dave McCabe <dave@github.com>
+This file was authored by Dave McCabe <miriam@github.com>
