@@ -1,1 +1,1 @@
-This file was authored by Kent C. Dodds <kentcdodds@github.com>
+This file was authored by Kent C. Dodds <alexeagle@github.com>
