@@ -1,1 +1,1 @@
-This file was authored by Dave Rupert <daverupert@github.com>
+This file was authored by Dave Rupert <getify@github.com>
