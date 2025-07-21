@@ -1,1 +1,1 @@
-This file was authored by Thomas Dohmke <dohmke@github.com>
+This file was authored by Thomas Dohmke <clarkbw@github.com>
