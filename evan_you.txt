@@ -1,1 +1,1 @@
-This file was authored by Evan You <evan@github.com>
+This file was authored by Evan You <evanbacon@github.com>
