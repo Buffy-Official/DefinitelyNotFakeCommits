@@ -1,1 +1,1 @@
-This file was authored by David Copper <dcopper@github.com>
+This file was authored by David Copper <sindresorhus@github.com>
