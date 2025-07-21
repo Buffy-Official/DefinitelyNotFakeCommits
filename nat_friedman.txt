@@ -1,1 +1,1 @@
-This file was authored by Nat Friedman <nat@github.com>
+This file was authored by Nat Friedman <kdaigle@github.com>
