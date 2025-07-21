@@ -1,1 +1,1 @@
-This file was authored by Emily Freeman <emilyf@github.com>
+This file was authored by Emily Freeman <tj@github.com>
