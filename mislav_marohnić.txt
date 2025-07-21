@@ -1,1 +1,1 @@
-This file was authored by Mislav Marohnić <mislav@github.com>
+This file was authored by Mislav Marohnić <dcopper@github.com>
