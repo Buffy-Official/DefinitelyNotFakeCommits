@@ -1,1 +1,1 @@
-This file was authored by Brittany Storoz <brittany@github.com>
+This file was authored by Brittany Storoz <kentcdodds@github.com>
