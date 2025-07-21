@@ -1,1 +1,1 @@
-This file was authored by Feross Aboukhadijeh <feross@github.com>
+This file was authored by Feross Aboukhadijeh <alfredasoftware@gmail.com>
