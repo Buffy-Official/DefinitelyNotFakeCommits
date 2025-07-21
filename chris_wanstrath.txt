@@ -1,1 +1,1 @@
-This file was authored by Chris Wanstrath <defunkt@github.com>
+This file was authored by Chris Wanstrath <lgravley@github.com>
