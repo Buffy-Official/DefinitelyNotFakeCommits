@@ -1,1 +1,1 @@
-This file was authored by Alvaro Trigo <alfredasoftware@gmail.com>
+This file was authored by Alvaro Trigo <ariya@github.com>
