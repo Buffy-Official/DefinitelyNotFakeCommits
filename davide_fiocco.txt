@@ -1,0 +1,1 @@
+This file was authored by Davide Fiocco <martin.fowler@thoughtworks.com>
