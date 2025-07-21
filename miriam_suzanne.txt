@@ -1,1 +1,1 @@
-This file was authored by Miriam Suzanne <miriam@github.com>
+This file was authored by Miriam Suzanne <bramus@github.com>
