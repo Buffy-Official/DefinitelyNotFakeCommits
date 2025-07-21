@@ -1,1 +1,1 @@
-This file was authored by Martin Woodward <martinwoodward@github.com>
+This file was authored by Martin Woodward <mcolyer@github.com>
